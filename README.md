@@ -1,0 +1,3 @@
+# IRC
+
+Goal: Create an IRC server, follow a protocol, manage channel...
